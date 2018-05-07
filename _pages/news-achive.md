@@ -10,4 +10,4 @@ Andrea Mechelli invited to present at the "The Promise of Deep Learning for Psyc
 Cho Kang Ik and Kirsten Lee joins the MLMH's group!  
 
 **April 2018**  
-New website for the MLMH Lab!  
+New website!  

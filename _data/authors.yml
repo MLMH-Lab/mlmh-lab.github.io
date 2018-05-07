@@ -1,0 +1,97 @@
+Andrea:
+  name               : "Andrea Mechelli"
+  location           : "London, UK"
+  affiliation        : "King's College London"
+  uri                : "https://kclpure.kcl.ac.uk/portal/a.mechelli.html"
+  email              : "a.mechelli@kcl.ac.uk"
+  bio                : "Reader of Early Intervention"
+  role               : "Lab Director"
+  avatar             : "assets/images/members/Andrea.jpg"
+
+Walter:
+    name             : "Walter Hugo Lopez Pinaya"
+    email            : "walter.diaz_sanz@kcl.ac.uk"
+    location         : "London, UK"
+    affiliation      : "King's College London"
+    uri              : "https://warvito.github.io/"
+    bio              : "Postdoctoral at King's College London and Assistant Professor at the Universidade Federal do ABC"
+    role             : "Postdoctoral"
+    avatar           : "assets/images/members/Walter.jpg"
+    twitter          : "warvito"
+    github           : "warvito"
+    orcid            : "0000-0003-3739-1087"
+    research_gate    : "Walter_Pinaya2"
+    google_scholar   : "jjT5-HUAAAAJ"
+    linkedin         : "walter-lopez-pinaya"
+    twitter          : "warvito"
+
+Cristina:
+    name             : "Cristina Scarpazza"
+    email            : "cristina.scarpazza@kcl.ac.uk"
+    location         : "London, UK"
+    affiliation      : "King's College London"
+    uri              : "https://kclpure.kcl.ac.uk/portal/en/persons/cristina-scarpazza(f1112e1b-25d6-453f-87a5-78c1b2bf9a66).html"
+    bio              : "Postdoctoral"
+    role             : "Postdoctoral"
+    avatar           : "assets/images/members/Cristina.jpg"
+    research_gate    : "Cristina_Scarpazza"
+    google_scholar   : "ME6K90gAAAAJ"
+
+Sandra:
+    name             : "Sandra Vieira"
+    email            : "sandra.vieira@kcl.ac.uk"
+    location         : "London, UK"
+    affiliation      : "King's College London"
+    uri              : "https://kclpure.kcl.ac.uk/portal/en/persons/sandra-vieira(7f0aad20-8ad2-4c0c-9e53-6b085a28746c).html"
+    bio              : "PhD Student"
+    role             : "PhD Student"
+    avatar           : "assets/images/members/Sandra.jpg"
+    research_gate    : "Sandra_Vieira5"
+    google_scholar   : "uxWhsqkAAAAJ"
+
+Lucie:
+    name             : "Lucie Burgess"
+    email            : "lucie.burgess@kcl.ac.uk"
+    location         : "London, UK"
+    affiliation      : "King's College London"
+    uri              : "https://kclpure.kcl.ac.uk/portal/en/persons/lucie-c-burgess(67d9c094-6a67-480e-b428-dcaac37a61d7).html"
+    bio              : "PhD Student"
+    role             : "PhD Student"
+    avatar           : "assets/images/members/Lucie.jpg"
+    research_gate    : "Lucie_Burgess"
+    linkedin         : "lucie-burgess-0137299" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+    twitter          : "luciecburgess"
+
+Ryan:
+    name             : "Ryan Hammoud"
+    email            : "ryan.hammoud@kcl.ac.uk"
+    location         : "London, UK"
+    affiliation      : "King's College London"
+    uri              : "https://kclpure.kcl.ac.uk/portal/en/persons/ryan-hammoud(01af5c1c-a0db-4a78-a3d4-cfdeb34a9464).html"
+    bio              : "PhD Student"
+    role             : "PhD Student"
+    avatar           : "assets/images/members/Ryan.jpg"
+
+Cho:
+    name             : "Cho Kevin Kang Ik"
+    email            : "kang_ik.cho@kcl.ac.uk"
+    location         : "London, UK"
+    affiliation      : "King's College London"
+    bio              : "Postdoctoral visitor"
+    role             : "Postdoctoral"
+    avatar           : "assets/images/members/Cho.jpg"
+    google_scholar   : "oAqSkuoAAAAJ"
+    research_gate    : "Kang_Ik_Cho"
+    linkedin         : "kang-ik-cho-11020113b"
+    github           : "kcho"
+
+
+
+Kirsten:
+    name             : "Kirsten Lee"
+    email            : "kirsten.lee@kcl.ac.uk"
+    location         : "London, UK"
+    affiliation      : "King's College London"
+    bio              : "MSc Student visitor"
+    role             : "MSc Student"
+    avatar           : "assets/images/members/Kirsten.jpeg"

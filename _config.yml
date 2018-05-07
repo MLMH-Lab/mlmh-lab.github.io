@@ -263,6 +263,5 @@ defaults:
       type: members
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       featured: false
-      classes: wide
