@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Members"
+    url: /members/
+  - title: "Publications"
+    url: /publications/
+  - title: "News and Press"
+    url: /news/
