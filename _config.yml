@@ -7,9 +7,9 @@ title                    : "Machine Learning in Mental Health Lab"
 title_separator          : "|"
 name                     : "Machine Learning in Mental Health Lab"
 description              : "Academic group website"
-url                      : https://warvito.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://mlmh-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : warvito/warvito.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : MLMH-Lab/mlmh-lab.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
