@@ -34,7 +34,7 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4001/members/Kirsten/",
         "teaser":"http://localhost:4001/assets/images/members/Kirsten.jpg"},{
-        "title": "Prognostic prediction of therapeutic response in depression using high-field MR imaging.",
+        "title": "Prognostic prediction of therapeutic response in depression using high-field MR imaging",
         "excerpt":"Authors: Qiyong Gong, Qizhu Wu, Cristina Scarpazza, Su Lui, Zhiyun Jia, Andre Marquand, Xiaoqi Huang, Philip McGuire, Andrea Mechelli Journal: Neuroimage DOI: 10.1016/j.neuroimage.2010.11.079 Abstract: Despite significant advances in the treatment of major depression, there is a high degree of variability in how patients respond to treatment. Approximately 70% of patients...","categories": [],
         "tags": [],
         "url": "http://localhost:4001/publications/2011-04-15-/",
@@ -64,6 +64,11 @@ var store = [{
         "tags": ["Deep learning","Convolutional neural networks"],
         "url": "http://localhost:4001/publications/2017-03-20-sbx024.077/",
         "teaser":"http://localhost:4001/assets/images/publications/scibull.png"},{
+        "title": "Urban Mind: Using Smartphone Technologies to Investigate the Impact of Nature on Mental Well-Being in Real Time ",
+        "excerpt":"Authors: Ioannis Bakolis, Ryan Hammoud, Michael Smythe, Johanna Gibbons, Neil Davidson, Stefania Tognin, Andrea Mechelli Journal: BioScience DOI: 10.1093/biosci/bix149 Abstract: Existing evidence on the beneficial effects of nature on mental health comes from studies using cross-sectional designs. We developed a smartphone-based tool (Urban Mind; www.urbanmind.info) to examine how exposure to...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4001/publications/2018-01-10-/",
+        "teaser":null},{
         "title": "Deep Learning Technology: Concepts and Applications in Biological Psychiatry",
         "excerpt":"Authors: Andrea Mechelli Journal: Biological Psychiatry DOI: 10.1016/j.biopsych.2018.02.221 Abstract: Technology companies such as Google, Facebook and Apple have long been using deep learning technology (DLT) for big data analysis in order to predict how people search the internet and what news they are interested in. In light of its superior...","categories": [],
         "tags": ["Machine Learning","Deep Learning Technology","Psychosis","Neuroimaging"],
