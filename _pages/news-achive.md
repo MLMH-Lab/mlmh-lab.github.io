@@ -1,7 +1,7 @@
 ---
 title: "News and Press"
 permalink: /news/
-classes: wide
+#classes: wide
 author_profile: false
 ---
 

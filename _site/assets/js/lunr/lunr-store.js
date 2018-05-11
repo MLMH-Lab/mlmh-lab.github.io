@@ -2,43 +2,38 @@ var store = [{
         "title": "Andrea Mechelli",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "http://localhost:4001/Andrea/",
+        "url": "http://localhost:4001/members/Andrea/",
         "teaser":"http://localhost:4001/assets/images/members/Andrea.jpg"},{
         "title": "Cristina Scarpazza",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "http://localhost:4001/Cristina/",
+        "url": "http://localhost:4001/members/Cristina/",
         "teaser":"http://localhost:4001/assets/images/members/Cristina.jpg"},{
         "title": "Walter Hugo Lopez Pinaya",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "http://localhost:4001/Walter/",
+        "url": "http://localhost:4001/members/Walter/",
         "teaser":"http://localhost:4001/assets/images/members/Walter.jpg"},{
         "title": "Sandra Vieira",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "http://localhost:4001/Sandra/",
+        "url": "http://localhost:4001/members/Sandra/",
         "teaser":"http://localhost:4001/assets/images/members/Sandra.jpg"},{
         "title": "Lucie Burgess",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "http://localhost:4001/Lucie/",
+        "url": "http://localhost:4001/members/Lucie/",
         "teaser":"http://localhost:4001/assets/images/members/Lucie.jpg"},{
         "title": "Ryan Hammoud",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "http://localhost:4001/Ryan/",
+        "url": "http://localhost:4001/members/Ryan/",
         "teaser":"http://localhost:4001/assets/images/members/Ryan.jpg"},{
-        "title": "Cho Kevin Kang Ik",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "http://localhost:4001/Cho/",
-        "teaser":"http://localhost:4001/assets/images/members/Cho.jpg"},{
         "title": "Kirsten Lee",
         "excerpt":"","categories": [],
         "tags": [],
-        "url": "http://localhost:4001/Kirsten/",
-        "teaser":"http://localhost:4001/assets/images/members/Kirsten.jpeg"},{
+        "url": "http://localhost:4001/members/Kirsten/",
+        "teaser":"http://localhost:4001/assets/images/members/Kirsten.jpg"},{
         "title": "Using deep learning to investigate the neuroimaging correlates of psychiatric and neurological disorders: Methods and applications",
         "excerpt":"Authors: Sandra Vieira, Walter HL Pinaya, Andrea Mechelli Journal: Neuroscience &amp; Biobehavioral Reviews DOI: 10.1016/j.neubiorev.2017.01.002 Abstract: Deep learning (DL) is a family of machine learning methods that has gained considerable attention in the scientific community, breaking benchmark records in areas such as speech and visual recognition. DL differs from conventional...","categories": [],
         "tags": ["Deep learning","Machine learning","Neuroimaging","Pattern recognition","Multilayer perceptron","Autoencoders","Convolutional neural networks","Deep belief networks","Psychiatric disorders","Neurologic disorders"],
