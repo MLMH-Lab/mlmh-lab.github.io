@@ -45,12 +45,11 @@
       {% if author.affiliation %}
         <li itemscope itemtype="http://schema.org/CollegeOrUniversity">
           <i class="fas fa-fw fa-university" aria-hidden="true"></i> <span itemprop="name">{{ author.affiliation }}</span>
-        </li>
-      {% endif %}
-
-      {% if author.location %}
-        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
+        {% if author.location %}
+          <li itemprop="location" itemscope itemtype="http://schema.org/Place">
+            <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
+          </li>
+        {% endif %}
         </li>
       {% endif %}
 
