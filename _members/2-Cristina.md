@@ -5,5 +5,5 @@ author: Cristina
 permalink: /members/Cristina/
 header:
   teaser: "assets/images/members/Cristina.jpg"
-excerpt: "Postdoctoral"
+excerpt: "Postdoc"
 ---

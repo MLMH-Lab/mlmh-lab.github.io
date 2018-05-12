@@ -5,5 +5,5 @@ author: Walter
 permalink: /members/Walter/
 header:
   teaser: "assets/images/members/Walter.jpg"
-excerpt: "Postdoctoral"
+excerpt: "Postdoc"
 ---
