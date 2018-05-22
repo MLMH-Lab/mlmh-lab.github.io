@@ -1,6 +1,6 @@
 var store = [{
         "title": "Andrea Mechelli",
-        "excerpt":"","categories": [],
+        "excerpt":"The focus of my research is the identification of predictors of disease onset and treatment response in psychosis. This involves the application of machine learning methods to genetic, multi-modal imaging, cognitive and psychosocial data. A core aim of my programme is to exploit the translational potential of this information, using...","categories": [],
         "tags": [],
         "url": "http://localhost:4001/members/Andrea/",
         "teaser":"http://localhost:4001/assets/images/members/Andrea.jpg"},{
@@ -10,7 +10,7 @@ var store = [{
         "url": "http://localhost:4001/members/Cristina/",
         "teaser":"http://localhost:4001/assets/images/members/Cristina.jpg"},{
         "title": "Walter Hugo Lopez Pinaya",
-        "excerpt":"","categories": [],
+        "excerpt":"Hey! I am a computer scientist and an engineer with a PhD in Neuroscience and Cognition from Universidade Federal do ABC (Brazil). Through my carrer, I realized how with the current explosion of technologies producing large scale measurements in neuroimaging applied to psychiatry and neurology it has became a field...","categories": [],
         "tags": [],
         "url": "http://localhost:4001/members/Walter/",
         "teaser":"http://localhost:4001/assets/images/members/Walter.jpg"},{
