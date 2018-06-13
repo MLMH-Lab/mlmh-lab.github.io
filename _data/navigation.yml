@@ -6,5 +6,7 @@ main:
     url: /members/
   - title: "Publications"
     url: /publications/
+  - title: "Join us!"
+    url: /join/
   - title: "News and Press"
     url: /news/
