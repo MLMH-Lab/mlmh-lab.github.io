@@ -34,6 +34,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4001/members/Kirsten/",
         "teaser":"http://localhost:4001/assets/images/members/Kirsten.jpg"},{
+        "title": "Rafael Garcia-Dias",
+        "excerpt":"","categories": [],
+        "tags": [],
+        "url": "http://localhost:4001/members/Rafael/",
+        "teaser":"http://localhost:4001/assets/images/members/Rafael.jpg"},{
         "title": "Prognostic prediction of therapeutic response in depression using high-field MR imaging",
         "excerpt":"Authors: Qiyong Gong, Qizhu Wu, Cristina Scarpazza, Su Lui, Zhiyun Jia, Andre Marquand, Xiaoqi Huang, Philip McGuire, Andrea Mechelli Journal: Neuroimage DOI: 10.1016/j.neuroimage.2010.11.079 Abstract: Despite significant advances in the treatment of major depression, there is a high degree of variability in how patients respond to treatment. Approximately 70% of patients...","categories": [],
         "tags": [],

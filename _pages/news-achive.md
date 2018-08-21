@@ -5,6 +5,9 @@ permalink: /news/
 author_profile: false
 ---
 
+**August 2018**
+- Rafael Garcia-Dias joins the MLMH's group!  
+
 **June 2018**
 - New [Research Assistant](/join/) position available!    
 
