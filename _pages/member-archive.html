@@ -9,3 +9,10 @@ permalink: /members/
     {% include archive-member.html type="grid" %}
   {% endfor %}
 </div>
+
+<h1>Former members</h1>
+<div class="grid__wrapper">
+  {% for post in site.former_members %}
+    {% include archive-member.html type="grid" %}
+  {% endfor %}
+</div>

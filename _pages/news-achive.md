@@ -5,6 +5,11 @@ permalink: /news/
 author_profile: false
 ---
 
+
+**October 2018**
+- Lea joins the MLMH's group!
+- New publication in [Human Brain Mapping](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24423).
+
 **August 2018**
 - Rafael Garcia-Dias joins the MLMH's group!
 

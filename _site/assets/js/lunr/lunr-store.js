@@ -1,4 +1,9 @@
 var store = [{
+        "title": "Kirsten Lee",
+        "excerpt":"","categories": [],
+        "tags": [],
+        "url": "http://localhost:4001/members/Kirsten/",
+        "teaser":"http://localhost:4001/assets/images/members/Kirsten.jpg"},{
         "title": "Andrea Mechelli",
         "excerpt":"The focus of my research is the identification of predictors of disease onset and treatment response in psychosis. This involves the application of machine learning methods to genetic, multi-modal imaging, cognitive and psychosocial data. A core aim of my programme is to exploit the translational potential of this information, using...","categories": [],
         "tags": [],
@@ -29,16 +34,16 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4001/members/Ryan/",
         "teaser":"http://localhost:4001/assets/images/members/Ryan.jpg"},{
-        "title": "Kirsten Lee",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "http://localhost:4001/members/Kirsten/",
-        "teaser":"http://localhost:4001/assets/images/members/Kirsten.jpg"},{
         "title": "Rafael Garcia-Dias",
         "excerpt":"","categories": [],
         "tags": [],
         "url": "http://localhost:4001/members/Rafael/",
         "teaser":"http://localhost:4001/assets/images/members/Rafael.jpg"},{
+        "title": "Lea Baecker",
+        "excerpt":"As part of my MSc Neuroscience (Neuroimaging) degree at King’s College London, I explored the use of Support Vector Machine models for the differential classification of psychosis, depression and post-traumatic stress disorder in MRI data. These psychiatric disorders tend to present with overlapping symptoms, so they are difficult to distinguish...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4001/members/Lea/",
+        "teaser":"http://localhost:4001/assets/images/members/Lea.jpg"},{
         "title": "Prognostic prediction of therapeutic response in depression using high-field MR imaging",
         "excerpt":"Authors: Qiyong Gong, Qizhu Wu, Cristina Scarpazza, Su Lui, Zhiyun Jia, Andre Marquand, Xiaoqi Huang, Philip McGuire, Andrea Mechelli Journal: Neuroimage DOI: 10.1016/j.neuroimage.2010.11.079 Abstract: Despite significant advances in the treatment of major depression, there is a high degree of variability in how patients respond to treatment. Approximately 70% of patients...","categories": [],
         "tags": [],
@@ -103,4 +108,9 @@ var store = [{
         "excerpt":"Authors: Andrea Mechelli Journal: Biological Psychiatry DOI: 10.1016/j.biopsych.2018.02.221 Abstract: Technology companies such as Google, Facebook and Apple have long been using deep learning technology (DLT) for big data analysis in order to predict how people search the internet and what news they are interested in. In light of its superior...","categories": [],
         "tags": ["Machine Learning","Deep Learning Technology","Psychosis","Neuroimaging"],
         "url": "http://localhost:4001/publications/2018-05-01/",
-        "teaser":"http://localhost:4001/assets/images/publications/biopsy.jpg"}]
+        "teaser":"http://localhost:4001/assets/images/publications/biopsy.jpg"},{
+        "title": "Using deep autoencoders to identify abnormal brain structural patterns in neuropsychiatric disorders: A large‐scale multi‐sample study",
+        "excerpt":"Authors: Walter HL Pinaya, Andrea Mechelli, Joao R Sato Journal: Human Brain Mapping DOI: 10.1002/hbm.24423 Abstract: Machine learning is becoming an increasingly popular approach for investigating spatially distributed and subtle neuroanatomical alterations in brain‐based disorders. However, some machine learning models have been criticized for requiring a large number of cases...","categories": [],
+        "tags": ["Autism spectrum disorder","Computational psychiatry","Deep autoencoder","Deep learning","Schizophrenia"],
+        "url": "http://localhost:4001/publications/2018-10-11/",
+        "teaser":"http://localhost:4001/assets/images/publications/hbm.jpg"}]

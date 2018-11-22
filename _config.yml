@@ -236,7 +236,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-
+  former_members:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -260,6 +262,14 @@ defaults:
   - scope:
       path: ""
       type: members
+    values:
+      layout: single
+      author_profile: true
+      featured: false
+  # _former_members
+  - scope:
+      path: ""
+      type: former_members
     values:
       layout: single
       author_profile: true
