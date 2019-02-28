@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: false
 ---
 
+**February 2019**
+- New publication in [Schizophrenia Bulletin](https://doi.org/10.1093/schbul/sby189).
 
 **October 2018**
 - Lea joins the MLMH's group!
