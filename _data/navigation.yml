@@ -6,6 +6,8 @@ main:
     url: /members/
   - title: "Publications"
     url: /publications/
+  - title: "Book"
+    url: /mlbook/
   # - title: "Join us!"
   #   url: /join/
   - title: "News and Press"

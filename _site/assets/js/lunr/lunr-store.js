@@ -15,12 +15,12 @@ var store = [{
         "url": "http://localhost:4001/members/Cristina/",
         "teaser":"http://localhost:4001/assets/images/members/Cristina.jpg"},{
         "title": "Walter Hugo Lopez Pinaya",
-        "excerpt":"Hey! I am a computer scientist and an engineer with a PhD in Neuroscience and Cognition from Universidade Federal do ABC (Brazil). Through my carrer, I realized how with the current explosion of technologies producing large scale measurements in neuroimaging applied to psychiatry and neurology it has became a field...","categories": [],
+        "excerpt":"Hello there! I am a computer scientist and an engineer with a PhD in Neuroscience and Cognition from Universidade Federal do ABC (Brazil). I have a long-time interest in machine learning methods (especially Deep Learning) and neuroimaging. Besides my job in the lab, I have a position as a Assistant...","categories": [],
         "tags": [],
         "url": "http://localhost:4001/members/Walter/",
         "teaser":"http://localhost:4001/assets/images/members/Walter.jpg"},{
         "title": "Sandra Vieira",
-        "excerpt":"","categories": [],
+        "excerpt":"Sandra Vieira is a researcher at the Institute of Psychiatry at King’s College London. She received her first Masters in Clinical Psychology in 2011 from the University of Coimbra, Portugal, and her second Masters in Psychiatric Research in 2014 from King’s College London. United Kingdom. She is currently completing her...","categories": [],
         "tags": [],
         "url": "http://localhost:4001/members/Sandra/",
         "teaser":"http://localhost:4001/assets/images/members/Sandra.jpg"},{
@@ -35,7 +35,7 @@ var store = [{
         "url": "http://localhost:4001/members/Ryan/",
         "teaser":"http://localhost:4001/assets/images/members/Ryan.jpg"},{
         "title": "Rafael Garcia-Dias",
-        "excerpt":"","categories": [],
+        "excerpt":"Currently, my main focus is to develop machine learning models to diagnose patients based on structural MRI. In general, my main interest is to benefit from the huge amount of data being acquired in neuroscience, using machine learning, to make a positive impact on the field. I am a PhD...","categories": [],
         "tags": [],
         "url": "http://localhost:4001/members/Rafael/",
         "teaser":"http://localhost:4001/assets/images/members/Rafael.jpg"},{
@@ -113,4 +113,9 @@ var store = [{
         "excerpt":"Authors: Walter HL Pinaya, Andrea Mechelli, Joao R Sato Journal: Human Brain Mapping DOI: 10.1002/hbm.24423 Abstract: Machine learning is becoming an increasingly popular approach for investigating spatially distributed and subtle neuroanatomical alterations in brain‐based disorders. However, some machine learning models have been criticized for requiring a large number of cases...","categories": [],
         "tags": ["Autism spectrum disorder","Computational psychiatry","Deep autoencoder","Deep learning","Schizophrenia"],
         "url": "http://localhost:4001/publications/2018-10-11/",
-        "teaser":"http://localhost:4001/assets/images/publications/hbm.jpg"}]
+        "teaser":"http://localhost:4001/assets/images/publications/hbm.jpg"},{
+        "title": "Using Machine Learning and Structural Neuroimaging to Detect First Episode Psychosis: Reconsidering the Evidence",
+        "excerpt":"Authors: Sandra Vieira, Qi-yong Gong, Walter HL Pinaya, Cristina Scarpazza, Stefania Tognin, Benedicto Crespo-Facorro, Diana Tordesillas-Gutierrez, ictor Ortiz-García, Esther Setien-Suero, Floortje E. Scheepers, Neeltje E. M. van Haren, Tiago R. Marques, Robin M. Murray, Anthony David, Paola Dazzan, Philip McGuire, Andrea Mechelli Journal: Schizophrenia Bulletin DOI: 10.1093/schbul/sby189 Abstract: Despite the...","categories": [],
+        "tags": ["Multivariate pattern recognition","Classification","Psychosis","Neuroimaging","Multi-site"],
+        "url": "http://localhost:4001/publications/2019-02-27/",
+        "teaser":"http://localhost:4001/assets/images/publications/scibull.png"}]
