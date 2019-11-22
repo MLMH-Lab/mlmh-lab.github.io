@@ -7,7 +7,7 @@ author_profile: false
 
 <img src="https://raw.githubusercontent.com/MLMH-Lab/mlmh-lab.github.io/master/assets/images/book/cover.png" data-canonical-src="https://raw.githubusercontent.com/MLMH-Lab/mlmh-lab.github.io/master/assets/images/book/cover.png" width="300" height="600" />
 
-*Available 1st November 2019.* [Preorder now!](https://www.elsevier.com/books/machine-learning/mechelli/978-0-12-815739-8)
+[Order now!](https://www.elsevier.com/books/machine-learning/mechelli/978-0-12-815739-8)
 
 
 **Description**
@@ -79,3 +79,7 @@ Part IV
 
 {:start="19"}
   19. A step-by-step tutorial on how to build a machine learning model
+
+
+**Python code**
+Access the python codes from Chapter 19 in this [link](https://github.com/MLMH-Lab/How-To-Build-A-Machine-Learning-Model).
