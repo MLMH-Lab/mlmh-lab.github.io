@@ -9,40 +9,40 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Using Support Vector Machine to identify imaging biomarkers of neurological and psychiatric disease: a critical review. | Machine Learning in Mental Health Lab</title>
-<meta name="description" content="Neuroscience &amp; Biobehavioral Reviews">
+<!-- begin _includes/seo.html --><title>Detecting schizophrenia at the level of the individual: relative diagnostic value of whole-brain images, connectome-wide functional connectivity and graph-based metrics | Machine Learning in Mental Health Lab</title>
+<meta name="description" content="Psychological Medicine">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_GB">
 <meta property="og:site_name" content="Machine Learning in Mental Health Lab">
-<meta property="og:title" content="Using Support Vector Machine to identify imaging biomarkers of neurological and psychiatric disease: a critical review.">
-<meta property="og:url" content="http://localhost:4000/publications/2012-04-01/">
+<meta property="og:title" content="Detecting schizophrenia at the level of the individual: relative diagnostic value of whole-brain images, connectome-wide functional connectivity and graph-based metrics">
+<meta property="og:url" content="http://localhost:4000/publications/2019-08-08/">
 
 
-  <meta property="og:description" content="Neuroscience &amp; Biobehavioral Reviews">
-
-
-
-  <meta property="og:image" content="http://localhost:4000/assets/images/publications/neuro_bio_rev.jpg">
+  <meta property="og:description" content="Psychological Medicine">
 
 
 
-
-
-  <meta property="article:published_time" content="2012-04-01T00:00:00+01:00">
+  <meta property="og:image" content="http://localhost:4000/assets/images/publications/hbm.png">
 
 
 
 
 
-  
+  <meta property="article:published_time" content="2019-08-08T00:00:00+01:00">
+
+
+
+
 
   
 
+  
 
-<link rel="canonical" href="http://localhost:4000/publications/2012-04-01/">
+
+<link rel="canonical" href="http://localhost:4000/publications/2019-08-08/">
 
 
 
@@ -180,15 +180,15 @@
   
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Using Support Vector Machine to identify imaging biomarkers of neurological and psychiatric disease: a critical review.">
-    <meta itemprop="description" content="Neuroscience &amp; Biobehavioral Reviews">
-    <meta itemprop="datePublished" content="April 01, 2012">
+    <meta itemprop="headline" content="Detecting schizophrenia at the level of the individual: relative diagnostic value of whole-brain images, connectome-wide functional connectivity and graph-based metrics">
+    <meta itemprop="description" content="Psychological Medicine">
+    <meta itemprop="datePublished" content="August 08, 2019">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Using Support Vector Machine to identify imaging biomarkers of neurological and psychiatric disease: a critical review.
+          <h1 id="page-title" class="page__title" itemprop="headline">Detecting schizophrenia at the level of the individual: relative diagnostic value of whole-brain images, connectome-wide functional connectivity and graph-based metrics
 </h1>
           
         </header>
@@ -196,13 +196,21 @@
 
       <section class="page__content" itemprop="text">
         
-        <p><em><strong>Authors</strong>: Graziella Orrù, William Pettersson-Yeo, Andre F. Marquand, Giuseppe Sartori, <a href="/members/Andrea">Andrea Mechelli</a></em></p>
+        <p><em><strong>Authors</strong>: Du Lei, <a href="/members/Walter">Walter HL Pinaya</a>, Therese van Amelsvoort, Machteld Marcelis, Gary Donohoe, David O. Mothersill, Aiden Corvin, Michael Gill, <a href="/members/Sandra">Sandra Vieira</a>, Xiaoqi Huang, Su Lui, <a href="/members/Cristina">Cristina Scarpazza</a>, Jonathan Young, Celso Arango, Ed Bullmore, Qiyong Gong, Philip McGuire, <a href="/members/Andrea">Andrea Mechelli</a></em></p>
 
-<p><strong>Journal: Neuroscience &amp; Biobehavioral Reviews</strong></p>
+<p><strong>Journal: Psychological Medicine</strong></p>
 
-<p>DOI: <a href="https://doi.org/10.1016/j.neubiorev.2012.01.004">10.1016/j.neubiorev.2012.01.004</a></p>
+<p>DOI: <a href="https://doi.org/10.1017/S0033291719001934">10.1017/S0033291719001934</a></p>
 
-<p class="notice"><strong>Abstract</strong>: Standard univariate analysis of neuroimaging data has revealed a host of neuroanatomical and functional differences between healthy individuals and patients suffering a wide range of neurological and psychiatric disorders. Significant only at group level however these findings have had limited clinical translation, and recent attention has turned toward alternative forms of analysis, including Support-Vector-Machine (SVM). A type of machine learning, SVM allows categorisation of an individual’s previously unseen data into a predefined group using a classification algorithm, developed on a training data set. In recent years, SVM has been successfully applied in the context of disease diagnosis, transition prediction and treatment prognosis, using both structural and functional neuroimaging data. Here we provide a brief overview of the method and review those studies that applied it to the investigation of Alzheimer’s disease, schizophrenia, major depression, bipolar disorder, presymptomatic Huntington’s disease, Parkinson’s disease and autistic spectrum disorder. We conclude by discussing the main theoretical and practical challenges associated with the implementation of this method into the clinic and possible future directions.</p>
+<p class="notice"><strong>Abstract</strong>:
+Background:
+Previous studies using resting-state functional neuroimaging have revealed alterations in whole-brain images, connectome-wide functional connectivity and graph-based metrics in groups of patients with schizophrenia relative to groups of healthy controls. However, it is unclear which of these measures best captures the neural correlates of this disorder at the level of the individual patient.
+Methods:
+Here we investigated the relative diagnostic value of these measures. A total of 295 patients with schizophrenia and 452 healthy controls were investigated using resting-state functional Magnetic Resonance Imaging at five research centres. Connectome-wide functional networks were constructed by thresholding correlation matrices of 90 brain regions, and their topological properties were analyzed using graph theory-based methods. Single-subject classification was performed using three machine learning (ML) approaches associated with varying degrees of complexity and abstraction, namely logistic regression, support vector machine and deep learning technology.
+Results:
+Connectome-wide functional connectivity allowed single-subject classification of patients and controls with higher accuracy (average: 81%) than both whole-brain images (average: 53%) and graph-based metrics (average: 69%). Classification based on connectome-wide functional connectivity was driven by a distributed bilateral network including the thalamus and temporal regions.
+Conclusion:
+These results were replicated across the three employed ML approaches. Connectome-wide functional connectivity permits differentiation of patients with schizophrenia from healthy controls at single-subject level with greater accuracy; this pattern of results is consistent with the ‘dysconnectivity hypothesis’ of schizophrenia, which states that the neural basis of the disorder is best understood in terms of system-level functional connectivity alterations.</p>
 
         
       </section>
@@ -210,6 +218,41 @@
       <footer class="page__meta">
         
         
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/tags/#functional-connectivity" class="page__taxonomy-item" rel="tag">Functional connectivity</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#graph-theoretical-analysis" class="page__taxonomy-item" rel="tag">Graph theoretical analysis</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#machine-learning" class="page__taxonomy-item" rel="tag">Machine learning</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#neuroimaging" class="page__taxonomy-item" rel="tag">Neuroimaging</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#schizophrenia" class="page__taxonomy-item" rel="tag">Schizophrenia</a>
+    
+    </span>
+  </p>
+
+
 
 
       </footer>
