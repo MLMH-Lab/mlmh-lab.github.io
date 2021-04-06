@@ -139,8 +139,8 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/publications/2020-10-15/",
         "teaser":null},{
-        "title": "Brain age prediction: A comparison between machine learning models using region and voxel-based morphometric data",
+        "title": null,
         "excerpt":"Authors: Lea Baecker, Rafael Garcia-Dias, Sandra Vieira, Cristina Scarpazza, Andrea Mechelli, Walter Pinaya Journal: Human Brain Mapping DOI: 10.1002/hbm.25368 ","categories": [],
-        "tags": [],
+        "tags": null,
         "url": "http://localhost:4000/publications/2021-01-31/",
         "teaser":null}]
