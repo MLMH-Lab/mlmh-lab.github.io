@@ -99,6 +99,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/publications/2017-06-01-/",
         "teaser":null},{
+        "title": "Urban Mind: Using Smartphone Technologies to Investigate the Impact of Nature on Mental Well-Being in Real Time",
+        "excerpt":"Authors: Ioannis Bakolis, Ryan Hammoud, Michael Smythe, Johanna Gibbons, Neil Davidson, Stefania Tognin, Andrea Mechelli* Journal: Biological Psychiatry DOI: 10.1016/j.biopsych.2018.02.221 Abstract: Technology companies such as Google, Facebook and Apple have long been using deep learning technology (DLT) for big data analysis in order to predict how people search the internet...","categories": [],
+        "tags": ["Nature","Mental well-being","Mental health","Smartphones","Ecological momentary assessmen"],
+        "url": "http://localhost:4000/publications/2018-02-01/",
+        "teaser":"http://localhost:4000/assets/images/publications/bioscience.jpg"},{
         "title": "Deep Learning Technology: Concepts and Applications in Biological Psychiatry",
         "excerpt":"Authors: Andrea Mechelli* Journal: Biological Psychiatry DOI: 10.1016/j.biopsych.2018.02.221 Abstract: Technology companies such as Google, Facebook and Apple have long been using deep learning technology (DLT) for big data analysis in order to predict how people search the internet and what news they are interested in. In light of its superior...","categories": [],
         "tags": ["Machine Learning","Deep Learning Technology","Psychosis","Neuroimaging"],
@@ -123,7 +128,7 @@ var store = [{
         "excerpt":"Authors: Du Lei, Walter HL Pinaya, Jonathan Young, Therese van Amelsvoort, Machteld Marcelis, Gary Donohoe, David O. Mothersill, Aiden Corvin, Sandra Vieira, Xiaoqi Huang, Su Lui,Cristina Scarpazza, Celso Arango, Ed Bullmore, Qiyong Gong, Philip McGuire, Andrea Mechelli* Journal: Human Brain Mapping DOI: 10.1002/hbm.24863 Abstract: Schizophrenia is a severe psychiatric disorder...","categories": [],
         "tags": ["Functional connectivity","Graph theoretical analysis","Machine learning","Neuroimaging","Schizophrenia"],
         "url": "http://localhost:4000/publications/2019-11-18/",
-        "teaser":"http://localhost:4000/assets/images/publications/hbm.png"},{
+        "teaser":"http://localhost:4000/assets/images/publications/hbm.webp"},{
         "title": "From models to tools: clinical translation of machine learning studies in psychosis",
         "excerpt":"Authors: Andrea Mechelli, Sandra Vieira Journal: npj Schizophrenia DOI: 10.1038/s41537-020-0094-8 ","categories": [],
         "tags": [],
@@ -135,12 +140,22 @@ var store = [{
         "url": "http://localhost:4000/publications/2020-06-08/",
         "teaser":null},{
         "title": "Neuroharmony: A new tool for harmonizing volumetric MRI data from unseen scanners",
-        "excerpt":"Authors: Rafael Garcia-Dias, Cristina Scarpazza, Lea Baecker, Sandra Vieira, Walter Pinaya, Andrea Mechelli Journal: NeuroImage DOI: 10.1016/j.neuroimage.2020.117127 ","categories": [],
+        "excerpt":"Authors: Rafael Garcia-Dias, Cristina Scarpazza, Lea Baecker, Sandra Vieira, Walter Pinaya, Andrea Mechelli Journal: NeuroImage DOI: 10.1016/j.neuroimage.2020.117127 Abstract: The increasing availability of magnetic resonance imaging (MRI) datasets is boosting the interest in the application of machine learning in neuroimaging. A key challenge to the development of reliable machine learning models,...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/publications/2020-10-15/",
         "teaser":null},{
-        "title": null,
-        "excerpt":"Authors: Lea Baecker, Rafael Garcia-Dias, Sandra Vieira, Cristina Scarpazza, Andrea Mechelli, Walter Pinaya Journal: Human Brain Mapping DOI: 10.1002/hbm.25368 ","categories": [],
-        "tags": null,
+        "title": "Brain age prediction: A comparison between machine learning models using region and voxel-based morphometric data",
+        "excerpt":"Authors: Lea Baecker, Rafael Garcia-Dias, Sandra Vieira, Cristina Scarpazza, Andrea Mechelli, Walter Pinaya Journal: Human Brain Mapping DOI: 10.1002/hbm.25368 Abstract: Brain morphology varies across the ageing trajectory and the prediction of a person’s age using brain features can aid the detection of abnormalities in the ageing process. Existing studies on...","categories": [],
+        "tags": ["biological ageing","healthy ageing","machine learning","regression analysis","support vector machine"],
         "url": "http://localhost:4000/publications/2021-01-31/",
-        "teaser":null}]
+        "teaser":null},{
+        "title": "Using normative modelling to detect disease progression in mild cognitive impairment and Alzheimer's disease in a cross-sectional multi-cohort study",
+        "excerpt":"Authors: Walter HL Pinaya, Cristina Scarpazza, Rafael Garcia-Dias, Sandra Vieira, Lea Baecker, Pedro F da Costa, Alberto Redolfi, Giovanni B. Frisoni, Michela Pievani, Vince D. Calhoun, João R. Sato &amp; Andrea Mechelli Journal: Scientific Reports - Nature DOI: 10.1038/s41598-021-95098-0 Abstract: Normative modelling is an emerging method for quantifying how individuals...","categories": [],
+        "tags": ["Ageing","Brain age","Brain-age gap","Machine learning","Neuroimaging"],
+        "url": "http://localhost:4000/publications/2021-08-03/",
+        "teaser":"http://localhost:4000/assets/images/publications/scientific_reports.png"},{
+        "title": "Machine learning for brain age prediction: Introduction to methods and clinical applications",
+        "excerpt":"Authors: Lea Baecker, Rafael Garcia-Dias, Sandra Vieira, Cristina Scarpazza, Andrea Mechelli Journal: EBioMedicine - The Lancet DOI: 10.1016/j.ebiom.2021.103600 Abstract: The rise of machine learning has unlocked new ways of analysing structural neuroimaging data, including brain age prediction. In this state-of-the-art review, we provide an introduction to the methods and potential...","categories": [],
+        "tags": ["Ageing","Brain age","Brain-age gap","Machine learning","Neuroimaging"],
+        "url": "http://localhost:4000/publications/2021-10-03/",
+        "teaser":"http://localhost:4000/assets/images/publications/EBioMedicine.png"}]
