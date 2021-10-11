@@ -9,11 +9,21 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/members/Cristina/",
         "teaser":"http://localhost:4000/assets/images/members/Cristina.jpg"},{
-        "title": "Walter Hugo Lopez Pinaya",
-        "excerpt":"Hello there! I am a computer scientist and an engineer with a PhD in Neuroscience and Cognition from Universidade Federal do ABC (Brazil). I have a long-time interest in machine learning methods (especially Deep Learning) and neuroimaging. Besides my job in the lab, I have a position as a Assistant...","categories": [],
+        "title": "Lea Baecker",
+        "excerpt":"As part of my MSc Neuroscience (Neuroimaging) degree at King’s College London, I explored the use of Support Vector Machine models for the differential classification of psychosis, depression and post-traumatic stress disorder in MRI data. These psychiatric disorders tend to present with overlapping symptoms, so they are difficult to distinguish...","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/members/Walter/",
-        "teaser":"http://localhost:4000/assets/images/members/Walter.jpg"},{
+        "url": "http://localhost:4000/members/Lea/",
+        "teaser":"http://localhost:4000/assets/images/members/Lea.jpg"},{
+        "title": "Rafael Garcia-Dias",
+        "excerpt":"Currently, my main focus is to develop machine learning models to diagnose patients based on structural MRI. In general, my main interest is to benefit from the huge amount of data being acquired in neuroscience, using machine learning, to make a positive impact on the field. I am a PhD...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/members/Rafael/",
+        "teaser":"http://localhost:4000/assets/images/members/Rafael.jpg"},{
+        "title": "Ryan Hammoud",
+        "excerpt":"","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/members/Ryan/",
+        "teaser":"http://localhost:4000/assets/images/members/Ryan.jpg"},{
         "title": "Sandra Vieira",
         "excerpt":"Sandra Vieira is a researcher at the Institute of Psychiatry at King’s College London. She received her first Masters in Clinical Psychology in 2011 from the University of Coimbra, Portugal, and her second Masters in Psychiatric Research in 2014 from King’s College London. United Kingdom. She is currently completing her...","categories": [],
         "tags": [],
@@ -24,21 +34,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/members/Lucie/",
         "teaser":"http://localhost:4000/assets/images/members/Lucie.jpg"},{
-        "title": "Ryan Hammoud",
-        "excerpt":"","categories": [],
+        "title": "Walter Hugo Lopez Pinaya",
+        "excerpt":"Hello there! I am a computer scientist and an engineer with a PhD in Neuroscience and Cognition from Universidade Federal do ABC (Brazil). I have a long-time interest in machine learning methods (especially Deep Learning) and neuroimaging. Besides my job in the lab, I have a position as a Assistant...","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/members/Ryan/",
-        "teaser":"http://localhost:4000/assets/images/members/Ryan.jpg"},{
-        "title": "Rafael Garcia-Dias",
-        "excerpt":"Currently, my main focus is to develop machine learning models to diagnose patients based on structural MRI. In general, my main interest is to benefit from the huge amount of data being acquired in neuroscience, using machine learning, to make a positive impact on the field. I am a PhD...","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/members/Rafael/",
-        "teaser":"http://localhost:4000/assets/images/members/Rafael.jpg"},{
-        "title": "Lea Baecker",
-        "excerpt":"As part of my MSc Neuroscience (Neuroimaging) degree at King’s College London, I explored the use of Support Vector Machine models for the differential classification of psychosis, depression and post-traumatic stress disorder in MRI data. These psychiatric disorders tend to present with overlapping symptoms, so they are difficult to distinguish...","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/members/Lea/",
-        "teaser":"http://localhost:4000/assets/images/members/Lea.jpg"},{
+        "url": "http://localhost:4000/members/Walter/",
+        "teaser":"http://localhost:4000/assets/images/members/Walter.jpg"},{
         "title": "Prognostic prediction of therapeutic response in depression using high-field MR imaging",
         "excerpt":"Authors: Qiyong Gong, Qizhu Wu, Cristina Scarpazza, Su Lui, Zhiyun Jia, Andre Marquand, Xiaoqi Huang, Philip McGuire, Andrea Mechelli* Journal: Neuroimage DOI: 10.1016/j.neuroimage.2010.11.079 Abstract: Despite significant advances in the treatment of major depression, there is a high degree of variability in how patients respond to treatment. Approximately 70% of patients...","categories": [],
         "tags": [],
