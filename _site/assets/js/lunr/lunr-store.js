@@ -29,11 +29,6 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/members/Sandra/",
         "teaser":"http://localhost:4000/assets/images/members/Sandra.jpg"},{
-        "title": "Lucie Burgess",
-        "excerpt":"","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/members/Lucie/",
-        "teaser":"http://localhost:4000/assets/images/members/Lucie.jpg"},{
         "title": "Walter Hugo Lopez Pinaya",
         "excerpt":"Hello there! I am a computer scientist and an engineer with a PhD in Neuroscience and Cognition from Universidade Federal do ABC (Brazil). I have a long-time interest in machine learning methods (especially Deep Learning) and neuroimaging. Besides my job in the lab, I have a position as a Assistant...","categories": [],
         "tags": [],
