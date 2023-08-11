@@ -46,6 +46,19 @@ Sandra:
     research_gate    : "Sandra_Vieira5"
     google_scholar   : "uxWhsqkAAAAJ"
 
+Lucie:
+    name             : "Lucie Burgess"
+    email            : "lucie.burgess@kcl.ac.uk"
+    location         : "London, UK"
+    affiliation      : "King's College London"
+    uri              : "https://kclpure.kcl.ac.uk/portal/en/persons/lucie-c-burgess(67d9c094-6a67-480e-b428-dcaac37a61d7).html"
+    bio              : "PhD Student"
+    role             : "PhD Student"
+    avatar           : "assets/images/members/Lucie.jpg"
+    research_gate    : "Lucie_Burgess"
+    linkedin         : "lucie-burgess-0137299" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+    twitter          : "luciecburgess"
+
 Ryan:
     name             : "Ryan Hammoud"
     email            : "ryan.hammoud@kcl.ac.uk"
