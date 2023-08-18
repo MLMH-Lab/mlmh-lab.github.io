@@ -153,4 +153,44 @@ var store = [{
         "excerpt":"Authors: Lea Baecker, Rafael Garcia-Dias, Sandra Vieira, Cristina Scarpazza, Andrea Mechelli Journal: EBioMedicine - The Lancet DOI: 10.1016/j.ebiom.2021.103600 Abstract: The rise of machine learning has unlocked new ways of analysing structural neuroimaging data, including brain age prediction. In this state-of-the-art review, we provide an introduction to the methods and potential...","categories": [],
         "tags": ["Ageing","Brain age","Brain-age gap","Machine learning","Neuroimaging"],
         "url": "http://localhost:4000/publications/2021-10-03/",
-        "teaser":"http://localhost:4000/assets/images/publications/EBioMedicine.png"}]
+        "teaser":"http://localhost:4000/assets/images/publications/EBioMedicine.png"},{
+        "title": "Lonely in a crowd: investigating the association between overcrowding and loneliness using smartphone technologies",
+        "excerpt":"Authors: Ryan Hammoud, Stefania Tognin, Ioannis Bakolis, Daniela Ivanova,Naomi Fitzpatrick, Lucie Burgess, Michael Smythe, Johanna Gibbons, Neil Davidson, Andrea Mechelli Journal: Scientific Reports DOI: 10.1038/s41598-021-03398-2 Abstract: Loneliness is a major public health concern with links to social and environmental factors. Previous studies have typically investigated loneliness as a stable emotional...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/publications/2021-12-20/",
+        "teaser":"http://localhost:4000/assets/images/publications/scientific_reports.png"},{
+        "title": "Using graph convolutional network to characterize individuals with major depressive disorder across multiple imaging sites",
+        "excerpt":"*Authors: Kun Qin, Du Lei, Walter HL Pinaya, Nanfang Pan, Wenbin Li, Ziyu Zhu, John A. Sweeney, Andrea Mechelli, Qiyong Gong * Journal: EBioMedicine - The Lancet DOI: 10.1016/j.ebiom.2022.103977 Abstract: Background: Establishing objective and quantitative neuroimaging biomarkers at individual level can assist in early and accurate diagnosis of major depressive...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/publications/2022-03-31/",
+        "teaser":"http://localhost:4000/assets/images/publications/EBioMedicine.png"},{
+        "title": "Brain morphometric features predict medication response in youth with bipolar disorder: a prospective randomized clinical trial",
+        "excerpt":"*Authors: Du Lei, Kun Qin, Wenbin Li, Walter HL Pinaya, Maxwell J. Tallman, L. Rodrigo Patino, Jeffrey R. Strawn, David Fleck, Christina C. Klein, Su Lui, Qiyong Gong, Caleb M. Adler, Andrea Mechelli, John A. Sweeney, Melissa P. DelBello * Journal: Psychological Medicine DOI: 10.1017/S0033291722000757 Abstract: Background: Identification of treatment-specific...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/publications/2022-04-08/",
+        "teaser":null},{
+        "title": "Graph Convolutional Networks Reveal Network-Level Functional Dysconnectivity in Schizophrenia",
+        "excerpt":"*Authors: Du Lei, Kun Qin, Walter HL Pinaya, Jonathan Young, Therese van Amelsvoort, Machteld Marcelis, Gary Donohoe, David O. Mothersill, Aiden Corvin, Sandra Vieira, Su Lui, Cristina Scarpazza, Celso Arango, Ed Bullmore, Qiyong Gong, Philip McGuire, Andrea Mechelli * Journal: Schizophrenia Bulletin DOI: 10.1093/schbul/sbac047 Abstract: Background and hypothesis: Schizophrenia is...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/publications/2022-05-15/",
+        "teaser":"http://localhost:4000/assets/images/publications/scibull.png"},{
+        "title": "Can we predict who will benefit from cognitive-behavioural therapy? A systematic review and meta-analysis of machine learning studies",
+        "excerpt":"*Authors: Sandra Vieira, Xinyi Liang, Raquel Guiomar, Andrea Mechelli * Journal: Clinical Psychology Review DOI: 10.1016/j.cpr.2022.102193 Abstract: Cognitive-behavioural therapy (CBT) is the first line of treatment for several mental health disorders. However, not all patients show clinical improvements after receiving CBT. Machine learning allows inferences at the individual level and...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/publications/2022-08-06/",
+        "teaser":null},{
+        "title": "The mental health benefits of visiting canals and rivers: An ecological momentary assessment study",
+        "excerpt":"*Authors: Nicol Bergou, Ryan Hammoud, Michael Smythe, Jo Gibbons, Neil Davidson, Stefania Tognin, Graeme Reeves, Jenny Shepherd, Andrea Mechelli * Journal: PLoS One DOI: 10.1371/journal.pone.0271306 Abstract: Existing evidence shows positive effects of being in nature on wellbeing, but we know little about the mental health benefits of spending time near...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/publications/2022-08-31/",
+        "teaser":null},{
+        "title": "Subtyping Schizophrenia Patients Based on Patterns of Structural Brain Alterations",
+        "excerpt":"*Authors: Yuan Xiao, Wei Liao, Zhiliang Long, Bo Tao, Qiannan Zhao, Chunyan Luo, Carol A. Tamminga, Matcheri S. Keshavan, Godfrey D. Pearlson, Brett A. Clementz, Elliot S. Gershon, Elena I. Ivleva, Sarah K. Keedy, Bharat B. Biswal, Andrea Mechelli, Rebekka Lencer, John A. Sweeney, Su Lui, Qiyong Gong * Journal:...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/publications/2022-09-11/",
+        "teaser":"http://localhost:4000/assets/images/publications/scibull.png"},{
+        "title": "Smartphone-based ecological momentary assessment reveals mental health benefits of birdlife",
+        "excerpt":"*Authors: Ryan Hammoud, Stefania Tognin, Lucie Burgess, Nicol Bergou, Michael Smythe, Johanna Gibbons, Neil Davidson, Alia Afifi, Ioannis Bakolis, Andrea Mechelli * Journal: Scientific Reports DOI: 10.1038/s41598-022-20207-6 Abstract: The mental health benefits of everyday encounters with birdlife for mental health are poorly understood. Previous studies have typically relied on retrospective...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/publications/2022-10-27/",
+        "teaser":"http://localhost:4000/assets/images/publications/scientific_reports.png"}]
