@@ -25,7 +25,7 @@ var store = [{
         "url": "http://localhost:4000/members/Ryan/",
         "teaser":"http://localhost:4000/assets/images/members/Ryan.jpg"},{
         "title": "Sandra Vieira",
-        "excerpt":"Sandra Vieira is a researcher at the Institute of Psychiatry at King’s College London. She received her first Masters in Clinical Psychology in 2011 from the University of Coimbra, Portugal, and her second Masters in Psychiatric Research in 2014 from King’s College London. United Kingdom. She is currently completing her...","categories": [],
+        "excerpt":"Sandra Vieira is a researcher at the Institute of Psychiatry at King’s College London. She received her first Masters in Clinical Psychology in 2011 from the University of Coimbra, Portugal, and her second Masters in Psychiatric Research in 2014 from King’s College London. United Kingdom. She completed her PhD in...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/members/Sandra/",
         "teaser":"http://localhost:4000/assets/images/members/Sandra.jpg"},{
