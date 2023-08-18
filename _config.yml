@@ -1,5 +1,5 @@
 remote_theme             : pages-themes/minimal@v0.2.0
-theme                    : "Minimal" # Arcminimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# theme                    : "Minimal" # Arcminimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-GB"
 title                    : "Machine Learning in Mental Health Lab"
@@ -179,6 +179,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-remote-theme
   - jemoji
 
 # mimic GitHub Pages with --safe
